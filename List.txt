@@ -1,0 +1,30 @@
+Final dashboard cut
+Buzzer mounting behind dashboard
+Accumulator slots
+Cover construction test
+Final cover test
+Acryllic gluing and layup for final assembly of lid
+Modify lid file for HV and LV panels
+Radiator move vertically
+Seat belt harness tabs
+Weather strip firewall and seat
+Suspension travel and adjustments
+Upgrade to locknuts everywhere (finalize)
+Talk with JB about spring changes
+Headrest mount welding
+Set screw to nylon bushing
+Drill new safety wire holes from front hub nuts and rears
+Swap to stiffer springs
+Watch out for front steering tie rod interference problems at upright
+Flip washers for front upper A-arm nodes for interference if needed
+Adjust pull rods in front and rear such that car is resting on ground with bump stops off (just off of full compression), then use spring preload for different drivers (use spacers if needed for more spring preload with the threads)
+Toe adjustment in the front to 1/8" inside. Rears should be completely straight
+DO NOT ADJUST WASHERS IN THE REAR, THEY ARE CURRENTLY PERFECT FOR INTERFERENCE
+
+
+
+
+
+Dashboard wiring
+Lid wiring
+Motor controller wiring with strain relief

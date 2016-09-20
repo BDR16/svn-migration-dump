@@ -1,0 +1,5 @@
+Both the .LNG and .CTL file must be in the same directory.
+You browse for and select the .CTL file through CAMWorks.
+It will not work unless the .LNG file is in the same folder as the .CTL file.
+
+Good luck.

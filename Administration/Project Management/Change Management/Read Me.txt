@@ -1,0 +1,3 @@
+Files in this folder should be named according to the work package that the effect and the date which they were created.
+
+Examples: "Drivetrain Nov 1" "Steering Oct 5" etc
